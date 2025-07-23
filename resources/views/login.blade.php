@@ -11,9 +11,9 @@
                 extend: {
                     colors: {
                         primary: '#0a192f',
-                        secondary: '#64ffda',
+                        secondary: '#76abb9',
                         text: '#ccd6f6',
-                        error: '#ff6b6b',
+                        error: '#7cca92',
                     },
                     animation: {
                         'float': 'float 6s infinite alternate',
