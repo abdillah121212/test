@@ -120,7 +120,7 @@
                 // Validasi login
                 if(username === 'sultan' && password === 'abdillah12') {
                     // Login berhasil, redirect ke welcome.html
-                    window.location.href = '/welcome';
+                    window.location.href = '/login';
                         
                
                 } else {
